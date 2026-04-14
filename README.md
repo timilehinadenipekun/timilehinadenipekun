@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Timilehin!
 - 👀 I’m interested in software engineering and maintenance
-- 🌱 I’m currently learning Computer Science 
+- 🌱 I’m a computing graduate 
 - 📫 How to reach me : timiadenipekun@outlook.com
 - ⚡ Fun fact: My top played games are Genshin Impact and Among Us
 
